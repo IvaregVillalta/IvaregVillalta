@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ivareg
-- 👀 Interested in data science
-- 🌱 Just starting the journey
-- 💞️ Looking to collaborate on data science projects related to crypto 
+- 👀 Interested in automation & AI
+- 💞️ Looking to collaborate on n8n-powered projects 
 - 📫 Reach me villalta.iva@gmail.com
 
 <!---
