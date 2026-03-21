@@ -6,7 +6,6 @@ Hi, I'm Ivareg. Bug creator. Accidental fixer. Siempre vibrando.
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0082FB?style=for-the-badge&logo=meta&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 Let's connect
