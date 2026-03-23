@@ -1,4 +1,4 @@
-Hi, I'm Ivareg. Bug creator. Accidental fixer. Siempre vibrando.
+Hi, I'm Ivareg. Bug creator. Accidental fixer.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-black?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
